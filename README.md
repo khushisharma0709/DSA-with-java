@@ -1,36 +1,60 @@
-DSA-with-java 🚀
+<h1 align="center">🚀 DSA with Java</h1>
 
-Welcome to my Data Structures & Algorithms repository built using Java.
-This repository contains topic-wise DSA questions, optimized solutions, and important concepts that I am practicing regularly for improving problem-solving skills, coding interviews, and placements.
+<p align="center">
+  A complete collection of Data Structures & Algorithms questions and solutions in Java.
+</p>
 
-📚 Topics Covered
-Arrays
-Strings
-Recursion
-Linked List
-Stack
-Queue
-Binary Tree
-Binary Search Tree
-Heap
-HashMap
-Sliding Window
-Binary Search
-Greedy Algorithms
-Backtracking
-Dynamic Programming
-Graphs
-Trie
-Sorting Algorithms
-💻 Language Used
-Java ☕
-🎯 Goals of this Repository
-Practice DSA consistently
-Improve coding and logical thinking
-Prepare for internships and placements
-Maintain topic-wise solved questions
-Track learning journey publicly on GitHub
-📂 Repository Structure
+---
+
+## 📌 About Repository
+
+This repository contains my topic-wise DSA practice questions, optimized solutions, and important concepts implemented using Java.  
+I am maintaining this repository regularly for improving problem-solving skills, coding interviews, internships, and placement preparation.
+
+---
+
+## 🧠 Topics Covered
+
+- Arrays
+- Strings
+- Recursion
+- Linked List
+- Stack
+- Queue
+- Binary Tree
+- Binary Search Tree
+- Heap
+- HashMap
+- Sliding Window
+- Binary Search
+- Greedy Algorithms
+- Backtracking
+- Dynamic Programming
+- Graphs
+- Trie
+- Sorting Algorithms
+
+---
+
+## 💻 Language Used
+
+☕ Java
+
+---
+
+## 🎯 Goals
+
+- Practice DSA consistently
+- Improve coding and logical thinking
+- Prepare for internships and placements
+- Maintain topic-wise solved questions
+- Track my learning journey publicly on GitHub
+
+---
+
+## 📂 Repository Structure
+
+```bash
 DSA-with-java/
 │
 ├── Arrays/
@@ -43,18 +67,3 @@ DSA-with-java/
 ├── Graphs/
 ├── Dynamic Programming/
 └── README.md
-✨ What You’ll Find Here
-Clean and understandable Java solutions
-Topic-wise organized questions
-Interview preparation problems
-Optimized approaches
-Regular updates with new questions
-🚀 Learning Journey
-
-I am continuously learning and updating this repository with new DSA concepts and coding problems.
-
-“Consistency is more important than perfection.”
-
-⭐ Connect & Support
-
-If you find this repository useful, feel free to ⭐ the repo and follow my coding journey.
