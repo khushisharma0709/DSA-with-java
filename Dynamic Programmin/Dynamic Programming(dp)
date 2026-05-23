@@ -1,1 +1,33 @@
+Dynamic Programming (DP)
 
+Dynamic Programming is an optimization technique used to solve complex problems by breaking them into smaller overlapping subproblems. Instead of solving the same subproblem repeatedly, DP stores previously computed results and reuses them, which reduces time complexity and improves efficiency.
+
+DP is mainly used when:
+
+The problem can be divided into smaller subproblems.
+Subproblems overlap with each other.
+The optimal solution can be built from optimal solutions of smaller subproblems.
+
+There are two common approaches in Dynamic Programming:
+
+Memoization (Top-Down Approach)
+In this method, recursion is used and the results of solved subproblems are stored in a cache or array to avoid repeated calculations.
+Tabulation (Bottom-Up Approach)
+In this method, solutions are built iteratively from the smallest subproblems to the final answer using tables or arrays.
+
+Dynamic Programming is widely used in solving problems related to:
+
+Fibonacci Series
+Knapsack Problem
+Longest Common Subsequence
+Matrix Chain Multiplication
+Coin Change
+Shortest Path Problems
+
+Advantages of Dynamic Programming:
+
+Reduces time complexity
+Avoids redundant computations
+Improves performance for recursive problems
+
+Dynamic Programming is an important concept in Data Structures and Algorithms and is frequently asked in coding interviews, competitive programming, and placement examinations.
