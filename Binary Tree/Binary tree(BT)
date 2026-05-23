@@ -1,1 +1,40 @@
-A collection of my solved DSA problems with optimized approaches, clean code, and continuous learning.
+Binary Tree
+
+A Binary Tree is a hierarchical data structure in which each node can have at most two children, commonly referred to as the left child and the right child. It is widely used in computer science for efficient searching, sorting, and hierarchical data representation.
+
+A binary tree consists of:
+
+Root Node – The topmost node of the tree.
+Parent Node – A node that has child nodes.
+Child Node – A node connected below another node.
+Leaf Node – A node with no children.
+Subtree – A smaller tree formed from any node and its descendants.
+
+Types of Binary Trees:
+
+Full Binary Tree – Every node has either 0 or 2 children.
+Complete Binary Tree – All levels are completely filled except possibly the last level.
+Perfect Binary Tree – All internal nodes have two children and all leaf nodes are at the same level.
+Balanced Binary Tree – The height difference between left and right subtrees is minimal.
+Binary Search Tree (BST) – Left subtree contains smaller values and right subtree contains larger values.
+
+Common operations performed on Binary Trees:
+
+Insertion
+Deletion
+Traversal
+Preorder
+Inorder
+Postorder
+Level Order
+Searching
+
+Applications of Binary Trees:
+
+Expression Trees
+File Systems
+Databases
+Routing Algorithms
+Binary Search Trees and Heaps
+
+Binary Trees are an important part of Data Structures and Algorithms and are frequently used in coding interviews, competitive programming, and real-world software applications.
